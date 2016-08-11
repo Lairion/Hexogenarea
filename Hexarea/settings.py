@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #Plugins
     'markdown',
+    #my plugin
+    'GameList'
 ]
 
 MIDDLEWARE_CLASSES = [
